@@ -1,0 +1,92 @@
+{
+	"credit": "Made with Blockbench",
+	"texture": "pig.png",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -13, -2],
+			"rotate": [-90, 0, 0],
+			"boxes": [
+				{"coordinates": [-5, 7, -5, 10, 16, 8], "textureOffset": [28, 8]},
+				{"coordinates": [-1, 5, 0, 2, 1, 1], "textureOffset": [47, 1]},
+				{"coordinates": [-1, 4, -2, 1, 1, 1], "textureOffset": [51, 6]},
+				{"coordinates": [-2, 5, -1, 1, 1, 1], "textureOffset": [48, 4]},
+				{"coordinates": [1, 6, -3, 1, 1, 3], "textureOffset": [56, 0]},
+				{"coordinates": [-2, 6, -4, 3, 2, 1], "textureOffset": [56, 5]}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -12, 6],
+			"boxes": [
+				{"coordinates": [-4, 8, -14, 8, 8, 8], "textureOffset": [0, 0]},
+				{"coordinates": [-2, 9, -15, 4, 3, 1], "textureOffset": [16, 16]}
+			],
+			"submodels": [
+				{
+					"id": "ear",
+					"invertAxis": "xy",
+					"translate": [0, 12, -6],
+					"submodels": [
+						{
+							"invertAxis": "xy",
+							"mirrorTexture": "u",
+							"boxes": [
+								{"coordinates": [-5, -2, -7, 2, 4, 3], "textureOffset": [14, 24]}
+							]
+						}
+					],
+					"boxes": [
+						{"coordinates": [3, -2, -7, 2, 4, 3], "textureOffset": [14, 24]}
+					]
+				}
+			]
+		},
+		{
+			"part": "leg1",
+			"id": "leg1",
+			"invertAxis": "xy",
+			"translate": [-3, -6, -7],
+			"boxes": [
+				{"coordinates": [1, 0, 5, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg2",
+			"id": "leg2",
+			"invertAxis": "xy",
+			"translate": [3, -6, -7],
+			"boxes": [
+				{"coordinates": [-5, 0, 5, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg3",
+			"id": "leg3",
+			"invertAxis": "xy",
+			"translate": [-3, -6, 5],
+			"boxes": [
+				{"coordinates": [1, 0, -7, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		},
+		{
+			"part": "leg4",
+			"id": "leg4",
+			"invertAxis": "xy",
+			"translate": [3, -6, 5],
+			"boxes": [
+				{"coordinates": [-5, 0, -7, 4, 6, 4], "textureOffset": [0, 16]}
+			]
+		}
+	]
+}

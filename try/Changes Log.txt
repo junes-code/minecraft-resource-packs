@@ -1,0 +1,57 @@
+CHANGED
+BLOCKS:
+- Shorter Grass (HARYA)
+- Tall Grass (HARYA)
+- End Stone (HARYA)
+- Cobblestone (HARYA)
+- Stripped Birch, Jungle, Warped, Crismon, Oak Log, Spruce & Dark Oak (HARYA)
+- Glass (HARYA)
+- End Rod (HARYA)
+- Scaffolding (HARYA)
+- Pumpkin (HARYA)
+- Azalea Leaves & Flowering Azalea (HARYA)
+- Crimson & Warped Nylium Side (HARYA)
+- Destroy Stage (HARYA)
+- Oak & Dark Oak Leaves (HARYA)
+- Dark Oak Sapling (HARYA)
+- Green Glazed Terracotta (HARYA)
+- Anvil (HARYA)
+- Stone Bricks (HARYA)
+- Brewing Stand Base (HARYA)
+- Lava (Evorp)
+
+ENTITIES:
+- Beds (HARYA)
+- Chicken (HARAY)
+- Cows (HARYA)
+
+GUIS:
+- Bars Progress (HARYA)
+- Social Interactions (HARYA)
+- Operator (HARYA)
+- Locked (HARYA)
+- Slider (HARYA)
+- Button (HARYA)
+
+ITEMS:
+- Cooked/Rabbit (HARYA)
+- Beef (HARYA)
+- Porkchop (HARYA)
+- Netherite Ingot (HARYA)
+- All Hangings/Signs (HARYA)
+- Golden/Carrot (Evorp & HARYA)
+- All Doors (HARYA & Evorp)
+- Clay Ball (Evorp)
+- All Colored Candles (Evorp)
+- Saddle (Evorp)
+- Turtle Egg (Evorp)
+- Turtle Shell (Evorp)
+- Egg (Evorp)
+- String (Careeoki)
+
+MOB EFFECT:
+- Strength (HARYA)
+- Weakness (HARYA)
+
+ARMORS:
+- Netherite Armor (HARYA)
